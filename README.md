@@ -16,3 +16,7 @@
 - The verb class functions as a input utility that opens the console scanner, prompts the user to type in a verb, captures that word, and passes it back to whichever part of the code requested it. The main class acts as the program's controller, starting the application by displaying the title screen and credits before calling helper methods like verb.getVerb() to gather all the required words and numbers. Once all the user inputs are collected, main feeds them into the madlib.createMadlib() function to assemble and display the final customized story on the screen.
 - Tested `main.java` code and had to fix the initial greeting part.
 - Added comments on `verb.java` and `main.java` and made it ready for submission.
+
+## Screenshots
+<img width="857" height="243" alt="Screenshot 2026-10-26 at 10 45 40 PM" src="https://github.com/user-attachments/assets/709f1b03-bfe2-43aa-854c-da490d71df21" />
+<img width="884" height="244" alt="Screenshot 2026-10-26 at 10 45 56 PM" src="https://github.com/user-attachments/assets/f36718de-d952-4187-aa4c-97b1c00d95dc" />
