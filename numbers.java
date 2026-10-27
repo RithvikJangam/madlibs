@@ -16,7 +16,7 @@ public class numbers{
                 pass = true;
             }
             catch(NumberFormatException e) {
-                System.out.print("Enter a valid number: ");
+                System.out.print("Enter a valid integer: ");
                 temp = cb.nextLine();
             }
         }
